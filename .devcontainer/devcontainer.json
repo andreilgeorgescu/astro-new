@@ -14,8 +14,8 @@
       ]
     }
   },
-  "updateContentCommand": "npm install", // npm ci?
-  "postAttachCommand": "npm run dev",
+  // "updateContentCommand": "npm install", // npm ci?
+  // "postAttachCommand": "npm run dev",
   "forwardPorts": [4321],
   "portsAttributes": {
     "4321": {
